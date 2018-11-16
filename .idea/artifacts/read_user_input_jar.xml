@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="read_user_input:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/read_user_input_jar</output-path>
+    <root id="archive" name="read_user_input.jar">
+      <element id="archive" name="readdit.jar">
+        <element id="module-output" name="read_user_input" />
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
